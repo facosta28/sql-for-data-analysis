@@ -19,4 +19,9 @@ The goal of this repository is to document my SQL learning process and build a p
 
 ## Projects
 
+| Project | Description | Status |
+|---|---|---|
+| Basic SQL Queries | SELECT, WHERE, ORDER BY, and simple filtering examples. | Completed |
+| Data Quality Checks | SQL queries to identify missing values, duplicates, and inconsistent records. | In progress |
+
 Coming soon.
